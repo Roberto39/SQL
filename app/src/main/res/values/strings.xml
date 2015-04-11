@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteSimples</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nova_conta">NovaConta</string>
+    <string name="title_activity_contas_cadastradas">ContasCadastradas</string>
+</resources>
